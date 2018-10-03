@@ -1,8 +1,13 @@
-{
-	"config":{"latestVersion": "1.0",
-	"minimumSupportedVersion": "1.0",
-	"welcomeStatement": "Our virtual advisor provides personalized guidance throughout your career journey to support your growth and goals.",
-	"userProfileEditStatement": "Documentation will be required for a legal name change and/or address change. Once changes on this page are saved, someone will reach out to you within 24-48 hours to discuss your request in more detail.",
-	"minCharsToListPredictionLocation": 3
-	       }
+{  
+    "config":{  
+        "latestVersion":"1.0",
+        "minimumVersion":"1.0",
+        "welcomeStatement":"Our virtual advisor provides personalized guidance throughout your career journey to support your growth and goals.",
+        "userProfileEditStatement":"Documentation will be required for a legal name change and/or address change. Once changes on this page are saved, someone will reach out to you within 24-48 hours to discuss your request in more detail.",
+        "minCharsToListPredictionLocation":3,
+        "minCharsToListPredictionOthers":2,
+        "salesforceRedirectUri":"",
+        "salesforceConsumerKey":"",
+        "googleAppLocationKey":""
+    }
 }
