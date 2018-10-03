@@ -1,0 +1,23 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf400
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;\red255\green255\blue254;\red144\green1\blue18;
+\red9\green60\blue148;\red19\green120\blue72;}
+{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;\cssrgb\c100000\c100000\c99608;\cssrgb\c63922\c8235\c8235;
+\cssrgb\c1569\c31765\c64706;\cssrgb\c3529\c53333\c35294;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sl360\partightenfactor0
+
+\f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec2 \{\cb1 \
+\cb3   \cf4 \strokec4 "latestVersion"\cf2 \strokec2  : \cf5 \strokec5 "1.0"\cf2 \strokec2 ,\cb1 \
+\cb3   \cf4 \strokec4 "minimumVersion"\cf2 \strokec2  : \cf5 \strokec5 "1.0"\cf2 \strokec2 ,\cb1 \
+\cb3   \cf4 \strokec4 "welcomeStatement"\cf2 \strokec2  : \cf5 \strokec5 "Our virtual advisor provides personalized guidance throughout your career journey to support your growth and goals."\cf2 \cb1 \strokec2 \
+\cb3   \cf4 \strokec4 "userProfileEditStatement"\cf2 \strokec2  :\cf5 \strokec5 "Documentation will be required for a legal name change and/or address change. Once changes on this page are saved, someone will reach out to you within 24-48 hours to discuss your request in more detail."\cf2 \cb1 \strokec2 \
+\cb3   \cf4 \strokec4 "minCharsToListPredictionLocation"\cf2 \strokec2  : \cf6 \strokec6 3\cf2 \cb1 \strokec2 \
+\cb3   \cf4 \strokec4 "minCharsToListPredictionOthers"\cf2 \strokec2  : \cf6 \strokec6 2\cf2 \cb1 \strokec2 \
+\cb3   \cf4 \strokec4 "salesforceRedirectUri"\cf2 \strokec2  : \cf5 \strokec5 ""\cf2 \cb1 \strokec2 \
+\cb3   \cf4 \strokec4 "salesforceConsumerKey"\cf2 \strokec2  :  \cf5 \strokec5 ""\cf2 \cb1 \strokec2 \
+\cb3   \cf4 \strokec4 "googleAppLocationKey"\cf2 \strokec2  : \cf5 \strokec5 ""\cf2 \cb1 \strokec2 \
+\cb3 \}\cb1 \
+}
