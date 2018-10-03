@@ -9,6 +9,9 @@
     },
     "configValues":{  
         "minCharsToListPredictionLocation":3,
-        "minCharsToListPredictionOthers":2
+        "minCharsToListPredictionOthers":2,
+        "salesforceRedirectUri" : "",
+        "salesforceConsumerKey" :  "",
+        "googleAppLocationKey" : ""
     }
 }
